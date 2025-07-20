@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibadatt-2k" alt="ibadatt-2k" /></a> </p>
 
-- 🌱 I’m currently into **AI and Machine Learning**
+- 🌱 I’m currently into **AI and Machine Learning** Check out my latest Project : https://diabetes-streamlit-frontend.onrender.com/
+
+    - **Here's the repo** : https://github.com/Ibadatt-2k/diabetes-risk-predictor
+
 
 - 👨‍💻 All of my projects are available at [https://ibadatt-2k.github.io/portfolio/](https://ibadatt-2k.github.io/portfolio/)
+
 
 - 📫 Reach out **isaulakh2004@gmail.com**
 
