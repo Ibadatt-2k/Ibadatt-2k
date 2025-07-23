@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently into **AI and Machine Learning** Check out my latest Project : https://diabetes-streamlit-frontend.onrender.com/
 
-    - **Here's the repo** : https://github.com/Ibadatt-2k/diabetes-risk-predictor
+- **LINK TO THE REPO** : https://github.com/Ibadatt-2k/diabetes-risk-predictor
 
 
 - 👨‍💻 All of my projects are available at [https://ibadatt-2k.github.io/portfolio/](https://ibadatt-2k.github.io/portfolio/)
