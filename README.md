@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibadatt Singh Aulakh</h1>
 <h3 align="center">Software developer in Canada</h3>
-<img align="center" alt = "coding" width="200" src="https://media.tenor.com/gjJLNnVDRsoAAAAj/mario-mario-png.gif">
+<img align="center" alt = "coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWhkMm4zbXJ2NTg5eDFuOHJ4Z3BzemU3OGYzOWl3cXdqeGt1ZmU1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/f6h7wzsAkdXZThF609/source.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadatt-2k&label=Profile%20views&color=0e75b6&style=flat" alt="ibadatt-2k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibadatt-2k" alt="ibadatt-2k" /></a> </p>
